@@ -8037,7 +8037,8 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  /* color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
+  color: #212529 !important;
 }
 
 .text-secondary {
@@ -10948,7 +10949,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/mainbg.jpg");
+  background-image: url("../assets/img/aircraft/DSC_0411\ \(1\)__01__01.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
